@@ -9,11 +9,13 @@
 - [x] As a book enthusiast, I want to view my wishlist, so that I can keep track of books I'm interested in reading.
 - [x] As a user, I want to remove books from my wishlist, so that I can keep my list updated with books I'm currently interested in.
 
-- [ ] As a user, I want to receive notifications when a book on my wishlist is released, so that I can purchase or read it as soon as possible.
-- [ ] Create Sign in page
-- [ ] Customize CSS
-- [ ] Add a Dark Mode?
-- [ ] User Authentication if possble
+- [ ] As a user, I want to receive notifications when a book on my wishlist is released, so that I can purchase or read it as soon as possible.(This will take a lot more time to do)
+- [ ] Create Sign in page( Didn't get to finished ran out of time)
+- [ ] Customize CSS(ngl, pretty ashamed about this one)
+- [ ] Add a Dark Mode?(eh maybe later)
+- [ ] User Authentication if possble(It's in the code but couldn't figure it out in time)
+
+Instructions, Make sure to run NPM I on the frontend and back end before launching
 Bugs
 - [x] Table stop displaying
 - [x] cannot create card or book either
