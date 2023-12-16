@@ -27,7 +27,7 @@ app.get('/', (request, response) => {
 
 app.use('/books', booksRoute);
 
-const MONGODB_URI = process.env.MONGODB_URI || "mongodb+srv://test:password413@finalcluster.pjq7iky.mongodb.net/FinalCluster?retryWrites=true";
+const MONGODB_URI = process.env.MONGODB_URI || "mongodb+srv://Testament:Testament@cluster0.xwyvhh9.mongodb.net/?retryWrites=true";
 const PORT = 5555;
 
 mongoose.connect(MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true })
